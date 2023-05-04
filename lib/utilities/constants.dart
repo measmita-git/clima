@@ -11,10 +11,10 @@ const kMessageTextStyle = TextStyle(
 );
 
 const kButtonTextStyle = TextStyle(
-  fontSize: 40.0,
+  fontSize: 60.0,
   fontFamily: 'Spartan MB',
 );
 
 const kConditionTextStyle = TextStyle(
-  fontSize: 70.0,
+  fontSize: 80.0,
 );
